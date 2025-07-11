@@ -240,3 +240,69 @@ main{
 
 /* focus section end */
 
+.get-in-touch-section{
+  max-width: 1140px;
+}
+
+.get-in-touch-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 115px;
+  margin-top: 93px;
+  padding-left: 150px;
+}
+
+.get-in-touch-title{
+  width: 528px;
+  font-weight: bold;
+  font-size: 97px;
+}
+
+label{
+  padding-bottom: 10px;
+}
+
+.get-in-touch-form input[type="text"]{
+  height: 70px;
+  border-radius: 5px;
+  display: block;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+  width: 497px;
+  background-color: rgba(242, 237, 237, 1);
+  border: none;
+}
+
+.get-in-touch-form input[type="email"]{
+  height: 70px;
+  border-radius: 5px;
+  display: block;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+  width: 497px;
+  background-color: rgba(242, 237, 237, 1);
+  border: none;
+}
+
+.get-in-touch-form textarea{
+  height: 70px;
+  border-radius: 5px;
+  display: block;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+  width: 497px;
+  background-color: rgba(242, 237, 237, 1);
+  border: none;
+}
+
+.form{
+  margin-bottom: 19px;
+}
+.form-btn{
+  width: 497px;
+  margin-top: 19px;
+}
