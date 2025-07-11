@@ -270,8 +270,8 @@ label{
   padding-bottom: 10px;
 }
 
-.get-in-touch-form input[type="text"]{
-  height: 70px;
+.get-in-touch-form input[type="email"]{
+  height: 40px;
   border-radius: 5px;
   display: block;
   font-size: 20px;
@@ -280,10 +280,13 @@ label{
   width: 497px;
   background-color: rgba(242, 237, 237, 1);
   border: none;
+  padding-top: 20px;
+  padding-left: 32px;
+  padding-bottom: 20px;
 }
 
-.get-in-touch-form input[type="email"]{
-  height: 70px;
+.get-in-touch-form input[type="text"]{
+  height: 40px;
   border-radius: 5px;
   display: block;
   font-size: 20px;
@@ -292,10 +295,14 @@ label{
   width: 497px;
   background-color: rgba(242, 237, 237, 1);
   border: none;
+  padding-top: 20px;
+  padding-left: 32px;
+  padding-bottom: 20px;
 }
+
 
 .get-in-touch-form textarea{
-  height: 70px;
+  height: 135px;
   border-radius: 5px;
   display: block;
   font-size: 20px;
@@ -304,6 +311,8 @@ label{
   width: 497px;
   background-color: rgba(242, 237, 237, 1);
   border: none;
+  padding-top: 20px;
+  padding-left: 32px;
 }
 
 .form{
