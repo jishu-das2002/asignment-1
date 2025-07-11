@@ -206,3 +206,37 @@ main{
   padding-left: 24px;
   color: #B3B3B3;
 }
+
+/* review section end */
+/* focus section start */
+
+.focus-section{
+  margin-top: 137px;
+  margin-left: 151px;
+  border-radius: 14px;
+  background-color: #F2EDED;
+  text-align: center;
+}
+
+.focus-title{
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 71px;
+  margin-bottom: 20px;
+}
+
+.focus-subtitle{
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.focus-img{
+  margin-top: 20px;
+  border-radius: 48px;
+  width: 840px;
+  margin-bottom: 71px;
+}
+
+/* focus section end */
+
