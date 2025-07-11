@@ -239,6 +239,7 @@ main{
 }
 
 /* focus section end */
+/* get in touch section start */
 
 .get-in-touch-section{
   max-width: 1140px;
@@ -305,4 +306,45 @@ label{
 .form-btn{
   width: 497px;
   margin-top: 19px;
+}
+
+/* get in touch section end */
+/* footer section start */
+
+.footer-section{
+  text-align: center;
+}
+
+.footer-container{
+  padding: 104px 455px 103px 454px;
+  width: 531px;
+}
+.website-name{
+  width: 291px;
+  color: rgba(78, 71, 255, 1);
+  font-size: 100px;
+  font-weight: 900;
+  margin: 0;
+  padding-left: 120px;
+}
+
+.website-subtitle{
+  font-size: 16px;
+  font-weight: 400;
+  color: #8987A1;
+  width: 531px;
+}
+
+
+.links ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links ul li a{
+  text-decoration: none;
+  color: #8987A1;
+  font-size: 16px;
+  font-weight: 400;
 }
