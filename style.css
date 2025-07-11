@@ -22,6 +22,12 @@
   border: none;
 }
 
+.btn-primary:hover{
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+}
+
 body{
   max-width: 1440px;
 }
